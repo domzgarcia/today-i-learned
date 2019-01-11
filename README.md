@@ -16,5 +16,6 @@
     <li>Embedded JS with params ~ https://www.gun.io/blog/pass-arguments-to-embedded-javascript-tutorial-example</li>
     <li>Docker ~ http://blog.adnansiddiqi.me/getting-started-with-docker/</li>
     <li>Zurb ~ https://github.com/zurb/foundation-emails</li>
+    <li>Immutable ~ https://facebook.github.io/immutable-js/</li>
   </ol>
 </details>
