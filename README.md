@@ -7,12 +7,14 @@
     <li>Edge(compiler) ~ https://github.com/tjanczuk/edge</li>
     <li>PHP - Noop </li>
     <li>PHP - Late static binding </li>
+    
   </ol>
   <br />
   <b>TLDR</b>
   <br />
   <ol>
-    <li>Docker - http://blog.adnansiddiqi.me/getting-started-with-docker/</li>
-    <li>Zurb - https://github.com/zurb/foundation-emails</li>
+    <li>Embedded JS with params ~ https://www.gun.io/blog/pass-arguments-to-embedded-javascript-tutorial-example</li>
+    <li>Docker ~ http://blog.adnansiddiqi.me/getting-started-with-docker/</li>
+    <li>Zurb ~ https://github.com/zurb/foundation-emails</li>
   </ol>
 </details>
