@@ -5,9 +5,10 @@
     <li>Node package, create-symlink ~ like symbolic link</li>
     <li>Node package, debug ~ a debug tool for node, to use it DEBUG=* </li>
     <li>Edge(compiler) ~ https://github.com/tjanczuk/edge</li>
-    <li>PHP - Noop </li>
-    <li>PHP - Late static binding </li>
+    <li>PHP ~ Noop </li>
+    <li>PHP ~ Late static binding </li>
     <li>Abstract syntax Tree</li>
+    <li>Babel ~ https://www.youtube.com/watch?v=C2PDAGCrk_g</li>
   </ol>
   <br />
   <b>TLDR</b>
