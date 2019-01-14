@@ -19,6 +19,7 @@
     <li>Docker ~ http://blog.adnansiddiqi.me/getting-started-with-docker/</li>
     <li>Zurb ~ https://github.com/zurb/foundation-emails</li>
     <li>Immutable ~ https://facebook.github.io/immutable-js/</li>
-    <li>WPPlugin from scratch ~ https://www.youtube.com/watch?v=StmVf5sXGlA&index=41&list=PLT9miexWCpPUQkQwL-COHmo0Jd0qxLjTn</li>
+    <li>WPPlugin from scratch (1) ~ https://www.youtube.com/watch?v=StmVf5sXGlA&index=41&list=PLT9miexWCpPUQkQwL-COHmo0Jd0qxLjTn</li>
+    <li><WPPlugin from scratch (2) ~ https://www.youtube.com/watch?v=sjK40CGy6ic/li>
   </ol>
 </details>
