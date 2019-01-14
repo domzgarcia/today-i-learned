@@ -15,6 +15,7 @@
   <b>TLDR</b>
   <br />
   <ol>
+    <li>Symfony ~ https://symfony.com/doc/current/index.html#gsc.tab=0</li>
     <li>Embedded JS with params ~ https://www.gun.io/blog/pass-arguments-to-embedded-javascript-tutorial-example</li>
     <li>Docker ~ http://blog.adnansiddiqi.me/getting-started-with-docker/</li>
     <li>Zurb ~ https://github.com/zurb/foundation-emails</li>
