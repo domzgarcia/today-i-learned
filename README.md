@@ -9,6 +9,7 @@
     <li>PHP ~ Late static binding </li>
     <li>Abstract syntax Tree</li>
     <li>Babel ~ https://www.youtube.com/watch?v=C2PDAGCrk_g</li>
+    <li>toFixed(n) ~ http://blog.blakesimpson.co.uk/read/61-fix-0-1-0-2-0-300000004-in-javascript</li>
   </ol>
   <br />
   <b>TLDR</b>
