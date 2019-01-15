@@ -15,6 +15,7 @@
   <b>TLDR</b>
   <br />
   <ol>
+    <li>TLMB ~ https://www.youtube.com/watch?v=mDotS5BDqRM</li>
     <li>hyyan ~ https://github.com/hyyan/jaguar</li>
     <li>Symfony ~ https://symfony.com/doc/current/index.html#gsc.tab=0</li>
     <li>Embedded JS with params ~ https://www.gun.io/blog/pass-arguments-to-embedded-javascript-tutorial-example</li>
