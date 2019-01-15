@@ -22,7 +22,8 @@
     <li>Docker ~ http://blog.adnansiddiqi.me/getting-started-with-docker/</li>
     <li>Zurb ~ https://github.com/zurb/foundation-emails</li>
     <li>Immutable ~ https://facebook.github.io/immutable-js/</li>
-    <li>WPPlugin from scratch (one)[https://www.youtube.com/watch?v=StmVf5sXGlA&index=41&list=PLT9miexWCpPUQkQwL-COHmo0Jd0qxLjTn]</li>
-    <li>WPPlugin from scratch (two)[https://www.youtube.com/watch?v=sjK40CGy6ic] </li>
+    <li>WPPlugin from scratch ~ (one)[https://www.youtube.com/watch?v=StmVf5sXGlA&index=41&list=PLT9miexWCpPUQkQwL-COHmo0Jd0qxLjTn]</li>
+    <li>WPPlugin from scratch ~ (two)[https://www.youtube.com/watch?v=sjK40CGy6ic] </li>
+    <li>TDD JS ~ https://github.com/dwyl/learn-tdd</li>
   </ol>
 </details>
