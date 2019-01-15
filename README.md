@@ -27,5 +27,6 @@
     <li>WPPlugin from scratch ~ (one)[https://www.youtube.com/watch?v=StmVf5sXGlA&index=41&list=PLT9miexWCpPUQkQwL-COHmo0Jd0qxLjTn]</li>
     <li>WPPlugin from scratch ~ (two)[https://www.youtube.com/watch?v=sjK40CGy6ic] </li>
     <li>TDD JS ~ https://github.com/dwyl/learn-tdd</li>
+    <li>DesignPattern ~ https://github.com/kamranahmedse/design-patterns-for-humans</li>
   </ol>
 </details>
