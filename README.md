@@ -2,6 +2,7 @@
 ---
 <details><summary>January</summary>
   <ol>
+    <li>React-router ~ https://reacttraining.com/react-router/web/api/Redirect/exact-bool</li>
     <li>WebEmoji ~ https://emojipedia.org/search/?q=heart</li>
     <li>Node package, create-symlink ~ like symbolic link</li>
     <li>Node package, debug ~ a debug tool for node, to use it DEBUG=* </li>
