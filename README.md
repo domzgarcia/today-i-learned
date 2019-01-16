@@ -2,6 +2,8 @@
 ---
 <details><summary>January</summary>
   <ol>
+    <li>HTTPS DEV REACT ~ https://facebook.github.io/create-react-app/docs/using-https-in-development</li>
+    <li>CSR  ~ https://helpdesk.ssls.com/hc/en-us/articles/115001608932-How-to-generate-a-CSR-code-on-Node-js</li>
     <li>React-router ~ https://reacttraining.com/react-router/web/api/Redirect/exact-bool</li>
     <li>WebEmoji ~ https://emojipedia.org/search/?q=heart</li>
     <li>Node package, create-symlink ~ like symbolic link</li>
