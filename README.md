@@ -19,6 +19,7 @@
   <b>TLDR</b>
   <br />
   <ol>
+    <li>CERT ~ https://knowledge.digicert.com/solution/SO17751.html</li>
     <li>TLMB ~ https://www.youtube.com/watch?v=mDotS5BDqRM</li>
     <li>hyyan ~ https://github.com/hyyan/jaguar</li>
     <li>Symfony ~ https://symfony.com/doc/current/index.html#gsc.tab=0</li>
