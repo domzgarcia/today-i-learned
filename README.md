@@ -38,8 +38,7 @@
     <li>Create Self signed in nodejs openssl req -new -x509 -key iris.xxx.key -out iris.xxx.cert -days 3650 -subj /CN=iris.xxx ~ https://www.kevinleary.net/self-signed-trusted-certificates-node-js-express-js/</li>
     <li>REACT Datatable ~ https://react-table.js.org/#/story/simple-table</li>
     <li>gtd ~ https://hamberg.no/gtd/ </li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>https://github.com/firebase/functions-samples</li>
+    <li>bakla ka ~ 123!!</li>
   </ol>
 </details>
