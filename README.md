@@ -32,5 +32,11 @@
     <li>WPPlugin from scratch ~ (two)[https://www.youtube.com/watch?v=sjK40CGy6ic] </li>
     <li>TDD JS ~ https://github.com/dwyl/learn-tdd</li>
     <li>DesignPattern ~ https://github.com/kamranahmedse/design-patterns-for-humans</li>
+    
+    <li>Laravel Socialite ~ https://laravel.com/docs/5.7/socialite#routing </li>
+    <li>MOngod ~ https://docs.mongodb.com/manual/reference/connection-string/ </li>
+    <li>Create Self signed in nodejs openssl req -new -x509 -key iris.xxx.key -out iris.xxx.cert -days 3650 -subj /CN=iris.xxx</li>
+    <li></li>
+    <li></li>
   </ol>
 </details>
