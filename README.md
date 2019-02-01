@@ -35,7 +35,10 @@
     
     <li>Laravel Socialite ~ https://laravel.com/docs/5.7/socialite#routing </li>
     <li>MOngod ~ https://docs.mongodb.com/manual/reference/connection-string/ </li>
-    <li>Create Self signed in nodejs openssl req -new -x509 -key iris.xxx.key -out iris.xxx.cert -days 3650 -subj /CN=iris.xxx</li>
+    <li>Create Self signed in nodejs openssl req -new -x509 -key iris.xxx.key -out iris.xxx.cert -days 3650 -subj /CN=iris.xxx ~ https://www.kevinleary.net/self-signed-trusted-certificates-node-js-express-js/</li>
+    <li>REACT Datatable ~ https://react-table.js.org/#/story/simple-table</li>
+    <li>gtd ~ https://hamberg.no/gtd/ </li>
+    <li></li>
     <li></li>
     <li></li>
   </ol>
