@@ -40,6 +40,7 @@
     <li>REACT Datatable ~ https://react-table.js.org/#/story/simple-table</li>
     <li>gtd ~ https://hamberg.no/gtd/ </li>
     <li>https://github.com/firebase/functions-samples</li>
-    <li>bakla ka ~ 123!!</li>
+    <li>umask ubuntu file rule</li>
+    
   </ol>
 </details>
