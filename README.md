@@ -32,11 +32,11 @@
     <li>WPPlugin from scratch ~ (one)[https://www.youtube.com/watch?v=StmVf5sXGlA&index=41&list=PLT9miexWCpPUQkQwL-COHmo0Jd0qxLjTn]</li>
     <li>WPPlugin from scratch ~ (two)[https://www.youtube.com/watch?v=sjK40CGy6ic] </li>
     <li>TDD JS ~ https://github.com/dwyl/learn-tdd</li>
-    <li>DesignPattern ~ https://github.com/kamranahmedse/design-patterns-for-humans</li>
+    <li>DesignPattern ~ https://github.com/kamranahmedse/design-patterns-for-humans </li>
     
     <li>Laravel Socialite ~ https://laravel.com/docs/5.7/socialite#routing </li>
     <li>MOngod ~ https://docs.mongodb.com/manual/reference/connection-string/ </li>
-    <li>Create Self signed in nodejs openssl req -new -x509 -key iris.xxx.key -out iris.xxx.cert -days 3650 -subj /CN=iris.xxx ~ https://www.kevinleary.net/self-signed-trusted-certificates-node-js-express-js/</li>
+    <li>Create Self signed in nodejs openssl req ```-new -x509 -key iris.xxx.key -out iris.xxx.cert -days 3650 -subj /CN=iris.xxx ~ https://www.kevinleary.net/self-signed-trusted-certificates-node-js-express-js/```</li>
     <li>REACT Datatable ~ https://react-table.js.org/#/story/simple-table</li>
     <li>gtd ~ https://hamberg.no/gtd/ </li>
     <li>https://github.com/firebase/functions-samples</li>
