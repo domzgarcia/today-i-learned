@@ -41,6 +41,6 @@
     <li>gtd ~ https://hamberg.no/gtd/ </li>
     <li>https://github.com/firebase/functions-samples</li>
     <li>umask ubuntu file rule</li>
-    
+    <li>spa ~ https://github.com/liferay/senna.js</li>
   </ol>
 </details>
