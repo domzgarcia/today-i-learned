@@ -42,5 +42,6 @@
     <li>https://github.com/firebase/functions-samples</li>
     <li>umask ubuntu file rule</li>
     <li>spa ~ https://github.com/liferay/senna.js</li>
+    <li>DAO ~ https://www.tutorialspoint.com/design_pattern/data_access_object_pattern.htm</li>
   </ol>
 </details>
