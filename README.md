@@ -2,6 +2,7 @@
 ---
 <details><summary>January</summary>
   <ol>
+    <li>SOLID ~ https://www.hashbangcode.com/article/solid-principles-php</li>
     <li>https HOW ~ https://howhttps.works/</li>
     <li>HTTPS DEV REACT ~ https://facebook.github.io/create-react-app/docs/using-https-in-development</li>
     <li>CSR  ~ https://helpdesk.ssls.com/hc/en-us/articles/115001608932-How-to-generate-a-CSR-code-on-Node-js</li>
