@@ -50,6 +50,7 @@
 <details><summary>February</summary>
   <ol>
     <li> Autoload ~ https://arunmichaeldsouza.com/blog/aliasing-module-paths-in-node-js </li>
+    <li> Datatable ~ https://datatables.net/examples/server_side/simple.html</li>
    </ol>
 </details>
  
