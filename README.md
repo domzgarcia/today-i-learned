@@ -52,6 +52,8 @@
     <li> Autoload ~ https://arunmichaeldsouza.com/blog/aliasing-module-paths-in-node-js </li>
     <li> Datatable ~ https://datatables.net/examples/server_side/simple.html</li>
     <li> PHPFound ~ https://github.com/delight-im/PHP-Foundation </li>
+    <li> Remount ~ https://github.com/rstacruz/remount</li>
+    <li> JIGSAW ~ https://github.com/tightenco/jigsaw</li>
    </ol>
 </details>
  
