@@ -46,3 +46,12 @@
     <li>DAO ~ https://www.tutorialspoint.com/design_pattern/data_access_object_pattern.htm</li>
   </ol>
 </details>
+
+<details><summary>January</summary>
+  <ol>
+    <li> Autoload ~ https://arunmichaeldsouza.com/blog/aliasing-module-paths-in-node-js </li>
+   </ol>
+</details>
+ 
+
+
