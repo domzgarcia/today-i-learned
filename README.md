@@ -56,6 +56,8 @@
     <li> JIGSAW ~ https://github.com/tightenco/jigsaw</li>
     <li> MyChainCert ~ https://whatsmychaincert.com/</li>
     <li> NPM Versioning ~ https://www.npmjs.com/package/semver</li>
+    <li> NPM package cli, npm publish, npm link/unlink, outdate, update </li>
+    <li> NPM Scripts ~ </li>
    </ol>
 </details>
  
