@@ -62,6 +62,8 @@
     <li>Refactoring Catalog ~ https://refactoring.com/catalog/</li>
     <li>Pure Functions ~ https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3</li>
     <li>Porfolio Peg ~ http://irvingv8.github.io/resume</li>
+    <li>Null Object Pattern ~ https://www.sitepoint.com/the-null-object-pattern-polymorphism-in-domain-models/</li>
+    <li>Anti Curraption Pattern ~ https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer</li>
    </ol>
 </details>
  
