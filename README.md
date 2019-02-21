@@ -58,6 +58,7 @@
     <li> NPM Versioning ~ https://www.npmjs.com/package/semver</li>
     <li> NPM package cli, npm publish, npm link/unlink, outdate, update </li>
     <li> NPM Scripts ~ </li>
+    <li> CLEAN CODE JS ~ https://github.com/ryanmcdermott/clean-code-javascript?fbclid=IwAR3fSeyd-kFgoC318RIHnQ0kZhEFfMJlE3pyNFyIvpmzzK9M_t8p-VRkW88</li>
    </ol>
 </details>
  
