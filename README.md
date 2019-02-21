@@ -64,14 +64,14 @@
     <li>Porfolio Peg ~ http://irvingv8.github.io/resume</li>
     <li>Null Object Pattern ~ https://www.sitepoint.com/the-null-object-pattern-polymorphism-in-domain-models/</li>
     <li>Anti Curraption Pattern ~ https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer</li>
-   <li><code> docker network create \
+   <li><pre> docker network create \
  --ip-range=192.168.13.0/24 \
 >  --driver=bridge \
 >  --subnet=192.168.13.1/16 \
 >  --ip-range=192.168.13.0/24 \
 >  --gateway=192.168.13.254 \
 >  docker-bridge-local
-3eda43486bebaf56430d68aa1aba75c510dd488f5376bd2ccbc198771d428519</code></li>
+3eda43486bebaf56430d68aa1aba75c510dd488f5376bd2ccbc198771d428519</pre></li>
    </ol>
 </details>
  
