@@ -60,6 +60,7 @@
     <li> NPM Scripts ~ </li>
     <li> CLEAN CODE JS ~ https://github.com/ryanmcdermott/clean-code-javascript?fbclid=IwAR3fSeyd-kFgoC318RIHnQ0kZhEFfMJlE3pyNFyIvpmzzK9M_t8p-VRkW88</li>
     <li>Refactoring Catalog ~ https://refactoring.com/catalog/</li>
+    <li>Pure Functions ~ https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3</li>
    </ol>
 </details>
  
