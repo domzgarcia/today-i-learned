@@ -75,6 +75,7 @@
    <li>Refactoring Guru ~ https://refactoring.guru/design-patterns/adapter/typescript/example?fbclid=IwAR0y6vlGe9BQeDyTZhInfGdUbr2lOe7bDl9fsJsuF2x-tfctLBEOqizCAas#lang-features</li>
    <li> WordPress Custom ~ https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/</li>
     <li>chip8 ~ https://github.com/taniarascia/chip8</li>
+    <li>Admire1 ~ https://www.taniarascia.com/</li>
    </ol>
 </details>
  
