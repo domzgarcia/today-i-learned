@@ -76,6 +76,7 @@
    <li> WordPress Custom ~ https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/</li>
     <li>chip8 ~ https://github.com/taniarascia/chip8</li>
     <li>Admire1 ~ https://www.taniarascia.com/</li>
+    <li>Jekyll ~ https://jekyllrb.com/</li>
    </ol>
 </details>
  
