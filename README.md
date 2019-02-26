@@ -77,6 +77,7 @@
     <li>chip8 ~ https://github.com/taniarascia/chip8</li>
     <li>Admire1 ~ https://www.taniarascia.com/</li>
     <li>Jekyll ~ https://jekyllrb.com/</li>
+  <li>Check used Ports in Windows ~ >netstat -a -b</li>
    </ol>
 </details>
  
