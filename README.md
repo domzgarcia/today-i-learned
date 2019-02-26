@@ -66,11 +66,11 @@
     <li>Anti Curraption Pattern ~ https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer</li>
    <li>*Create Bridge Docker*<pre> docker network create \
  --ip-range=192.168.13.0/24 \
->  --driver=bridge \
->  --subnet=192.168.13.1/16 \
->  --ip-range=192.168.13.0/24 \
->  --gateway=192.168.13.254 \
->  docker-bridge-local
+  --driver=bridge \
+  --subnet=192.168.13.1/16 \
+  --ip-range=192.168.13.0/24 \
+  --gateway=192.168.13.254 \
+  docker-bridge-local
 3eda43486bebaf56430d68aa1aba75c510dd488f5376bd2ccbc198771d428519</pre></li>
    <li>Refactoring Guru ~ https://refactoring.guru/design-patterns/adapter/typescript/example?fbclid=IwAR0y6vlGe9BQeDyTZhInfGdUbr2lOe7bDl9fsJsuF2x-tfctLBEOqizCAas#lang-features</li>
    <li> WordPress Custom ~ https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/</li>
