@@ -81,6 +81,7 @@
     <li>Luxon MomentJS Alternative ~ https://moment.github.io/luxon/</li>
     <li>W3cj ~ https://github.com/w3cj</li>
     <li>Cascade Laravel BluePrint ~ https://medium.com/@rafael_franca/laravel-tip-cascading-on-update-in-migration-2100af33081</li>
+    <li>TDD ~ https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a</li>
    </ol>
 </details>
  
