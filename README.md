@@ -90,6 +90,16 @@
   <ol>
     <li>Ergonomics ~ the study of people's efficiency in their working environment</li>
     <li>Deploy AdonisJS ~ https://slynova.io/deploy-your-adonis-website/</li>
+    <li>Monolithic ~ 
+    <pre>
+      1.
+formed of a single large block of stone.
+2.
+(of an organization or system) large, powerful, and intractably indivisible and uniform.
+"rejecting any move toward a monolithic European superstate"
+synonyms:	inflexible, rigid, unbending, unchanging, intractable, immovable, impenetrable, fossilized, hidebound; More
+     </pre></li>
+     <li>Next ...</li>
      </ol>
 </details>
     
