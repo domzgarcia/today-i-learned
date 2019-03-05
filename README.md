@@ -99,7 +99,7 @@ formed of a single large block of stone.
 "rejecting any move toward a monolithic European superstate"
 synonyms:	inflexible, rigid, unbending, unchanging, intractable, immovable, impenetrable, fossilized, hidebound; More
      </pre></li>
-     <li>Next ...</li>
+     <li>AdonisJS Crash Course ~ https://coursetro.com/posts/code/170/Adonis-4-Tutorial---Learn-Adonis-4-in-this-Crash-Course</li>
      </ol>
 </details>
     
