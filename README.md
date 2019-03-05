@@ -101,6 +101,9 @@ synonyms:	inflexible, rigid, unbending, unchanging, intractable, immovable, impe
      </pre></li>
      <li>AdonisJS Crash Course ~ https://coursetro.com/posts/code/170/Adonis-4-Tutorial---Learn-Adonis-4-in-this-Crash-Course</li>
     <li>Adonis Article 1 ~ https://hackernoon.com/my-takeaways-from-building-a-job-board-with-adonisjs-4-f4071d98a929</li>
+     <li> #1 MailTrap Tuts ~ https://www.youtube.com/watch?v=w0ho0RQAIUc&index=4&list=PLylMDDjFIp1AWwiNXjBVahNXYCGjkq-Eh</li>
+      <li> #2 Mailable ~ https://laravel.com/docs/5.8/mail#writing-mailables</li>
+      <li> #3 MailTrap Account ~ https://mailtrap.io/inboxes/558225/settings</li>
      </ol>
 </details>
     
