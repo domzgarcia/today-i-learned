@@ -100,6 +100,7 @@ formed of a single large block of stone.
 synonyms:	inflexible, rigid, unbending, unchanging, intractable, immovable, impenetrable, fossilized, hidebound; More
      </pre></li>
      <li>AdonisJS Crash Course ~ https://coursetro.com/posts/code/170/Adonis-4-Tutorial---Learn-Adonis-4-in-this-Crash-Course</li>
+    <li>Adonis Article 1 ~ https://hackernoon.com/my-takeaways-from-building-a-job-board-with-adonisjs-4-f4071d98a929</li>
      </ol>
 </details>
     
