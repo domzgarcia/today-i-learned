@@ -106,6 +106,7 @@ synonyms:	inflexible, rigid, unbending, unchanging, intractable, immovable, impe
       <li> #3 MailTrap Account ~ https://mailtrap.io/inboxes/558225/settings</li>
     <li>1 AdonisJS Mail Example ~ https://github.com/ammezie/complete-adonis-auth</li>
     <li>2 AdonisJS Mail Example ~ https://www.youtube.com/watch?v=bI49nqFrm6o&list=PL9gT3zlT0C1NgCLkyMf-EL9anST6Tl6xW</li>
+     <li>3 AdonisJS SPA + VueJS ~ https://dev.to/mzanggl/build-fullstack-javascript-apps-with-adonis-and-vue-3edc</li>
      </ol>
 </details>
     
