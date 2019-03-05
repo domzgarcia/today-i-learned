@@ -89,6 +89,7 @@
  <details><summary>March</summary>
   <ol>
     <li>Ergonomics ~ the study of people's efficiency in their working environment</li>
+    <li>Deploy AdonisJS ~ https://slynova.io/deploy-your-adonis-website/</li>
      </ol>
 </details>
     
