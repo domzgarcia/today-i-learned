@@ -108,7 +108,7 @@ synonyms:	inflexible, rigid, unbending, unchanging, intractable, immovable, impe
     <li>2 AdonisJS Mail Example ~ https://www.youtube.com/watch?v=bI49nqFrm6o&list=PL9gT3zlT0C1NgCLkyMf-EL9anST6Tl6xW</li>
      <li>3 AdonisJS SPA + VueJS ~ https://dev.to/mzanggl/build-fullstack-javascript-apps-with-adonis-and-vue-3edc</li>
     <li>Change all Mongodb ~ https://docs.mongodb.com/manual/reference/operator/update/pull/</li>
-    <li>Terms [Future Proof, Interface-Implement Pairs, ]</li>
+    <li>Terms [Future Proof, Interface-Implement Pairs, HigherOrder Functions, ]</li>
     
      </ol>
 </details>
