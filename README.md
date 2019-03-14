@@ -112,17 +112,11 @@ synonyms:	inflexible, rigid, unbending, unchanging, intractable, immovable, impe
     <li>Canvas #1 ~ https://github.com/raphamorim/awesome-canvas#examples
 <pre>
 https://codepen.io/createjs/pen/YdKVXP
-
 http://blog.createjs.com/new-plugins-in-tweenjs/
-
 https://www.createjs.com/easeljs
-
 http://pixijs.download/release/docs/PIXI.DisplayObject.html
-
 http://ocanvas.org/
-
 http://paperjs.org/tutorials/getting-started/working-with-paper-js/
-
 https://konvajs.org/docs/shapes/Image.html
 </pre></li>
     <li>Export DB ~ mongorestore --db Helium Helium/ --drop</li>
