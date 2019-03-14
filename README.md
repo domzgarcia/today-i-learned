@@ -118,6 +118,7 @@ http://pixijs.download/release/docs/PIXI.DisplayObject.html
 http://ocanvas.org/
 http://paperjs.org/tutorials/getting-started/working-with-paper-js/
 https://konvajs.org/docs/shapes/Image.html
+https://codepen.io/createjs/pen/YdKVXP
 </pre></li>
     <li>Export DB ~ mongorestore --db Helium Helium/ --drop</li>
      </ol>
