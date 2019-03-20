@@ -124,6 +124,7 @@ https://codepen.io/createjs/pen/YdKVXP
      <li>INPUT FORMAT ~ https://nosir.github.io/cleave.js/</li>
     <li>Big O Complexity ~ https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/</li>
     <li>Binary Sort</li>
+    <li>Refactoring By Martin Fowler ~ https://martinfowler.com/books/refactoring.html</>
      </ol>
 </details>
     
