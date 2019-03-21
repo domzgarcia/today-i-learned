@@ -126,6 +126,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Binary Sort</li>
     <li>Refactoring By Martin Fowler ~ https://martinfowler.com/books/refactoring.html</>
      <li>Datatables in Node ~ https://github.com/deepikagunda/datatables</li>
+  <li>DataTables WITH FIREBASE ~ https://stackoverflow.com/questions/26700924/query-based-on-multiple-where-clauses-in-firebase</li>
      </ol>
 </details>
     
