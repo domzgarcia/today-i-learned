@@ -128,6 +128,7 @@ https://codepen.io/createjs/pen/YdKVXP
      <li>Datatables in Node ~ https://github.com/deepikagunda/datatables</li>
   <li>DataTables WITH FIREBASE ~ https://stackoverflow.com/questions/26700924/query-based-on-multiple-where-clauses-in-firebase</li>
      <li>adonis validation ~ https://indicative.adonisjs.com/docs/normalizeemail</li>
+  <li> lavaChars ~  http://lavacharts.com/?fbclid=IwAR238KHc0Gc1Dm40yUrHGLlL-QjfiQtcTbfFrvzxQ-6z0gnOGEJWeJxrJjg#quickstart-chart</li>
      </ol>
 </details>
     
