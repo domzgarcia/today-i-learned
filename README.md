@@ -139,7 +139,7 @@ https://codepen.io/createjs/pen/YdKVXP
   <ol>
    <li>Formik and Yup for react Forms</li>
   </ol>
- <details>
+ </details>
     
 
 
