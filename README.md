@@ -130,6 +130,7 @@ https://codepen.io/createjs/pen/YdKVXP
      <li>adonis validation ~ https://indicative.adonisjs.com/docs/normalizeemail</li>
   <li> lavaChars ~  http://lavacharts.com/?fbclid=IwAR238KHc0Gc1Dm40yUrHGLlL-QjfiQtcTbfFrvzxQ-6z0gnOGEJWeJxrJjg#quickstart-chart</li>
   <li> Migration Points ~ https://youtu.be/2AJZuQ6rgKM</li>
+  <li> Chinese Lang ~ https://youtu.be/duAdqhEQ6KU</li>
      </ol>
 </details>
     
