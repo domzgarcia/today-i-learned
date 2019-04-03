@@ -139,6 +139,7 @@ https://codepen.io/createjs/pen/YdKVXP
   <ol>
    <li>Formik and Yup for react Forms</li>
     <li>OOP - Basice with JS Example ~ https://www.youtube.com/watch?v=pTB0EiLXUC8</li>
+    <li>Inspiring thoughts ~ https://www.youtube.com/watch?v=e8QY0NDWqzk</li>
   </ol>
  </details>
     
