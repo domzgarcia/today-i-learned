@@ -141,6 +141,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>OOP - Basice with JS Example ~ https://www.youtube.com/watch?v=pTB0EiLXUC8</li>
     <li>Inspiring thoughts ~ https://www.youtube.com/watch?v=e8QY0NDWqzk</li>
     <li>Cool library in PHP ~ https://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about</li>
+    <li>Image upload ~ https://www.jquery-az.com/bootstrap-jquery-image-upload-preview-plug-in/</li>
   </ol>
  </details>
  
