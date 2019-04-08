@@ -142,6 +142,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Inspiring thoughts ~ https://www.youtube.com/watch?v=e8QY0NDWqzk</li>
     <li>Cool library in PHP ~ https://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about</li>
     <li>Image upload ~ https://www.jquery-az.com/bootstrap-jquery-image-upload-preview-plug-in/</li>
+    <li>Free adminLTE ~ https://adminlte.io/themes/AdminLTE/index2.html</li>
   </ol>
  </details>
  
