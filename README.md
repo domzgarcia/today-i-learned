@@ -144,6 +144,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Image upload ~ https://www.jquery-az.com/bootstrap-jquery-image-upload-preview-plug-in/</li>
     <li>Free adminLTE ~ https://adminlte.io/themes/AdminLTE/index2.html</li>
     <li>Jest Async/Await Error In Runtime ~ https://github.com/babel/babel/issues/5085</li>
+    <li>Jest Async/Await Solve ~ https://bagja.net/blog/regenerator-runtime-is-not-defined.html</li>
     <li>reference cascade ondelete constraints</li>
   </ol>
  </details>
