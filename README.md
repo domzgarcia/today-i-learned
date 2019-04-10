@@ -146,6 +146,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Jest Async/Await Error In Runtime ~ https://github.com/babel/babel/issues/5085</li>
     <li>Jest Async/Await Solve ~ https://bagja.net/blog/regenerator-runtime-is-not-defined.html</li>
     <li>reference cascade ondelete constraints</li>
+    <li>Laravel Maintenance ~ https://github.com/MisterPhilip/maintenance-mode</li>
   </ol>
  </details>
  
