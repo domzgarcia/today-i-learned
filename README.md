@@ -147,6 +147,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Jest Async/Await Solve ~ https://bagja.net/blog/regenerator-runtime-is-not-defined.html</li>
     <li>reference cascade ondelete constraints</li>
     <li>Laravel Maintenance ~ https://github.com/MisterPhilip/maintenance-mode</li>
+    <li>UMBRACO jeromegpokemon zxcv , https://www.s1.umbraco.io/home/login/?ReturnUrl=%2fprojects</li>
   </ol>
  </details>
  
