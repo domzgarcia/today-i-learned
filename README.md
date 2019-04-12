@@ -149,6 +149,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Laravel Maintenance ~ https://github.com/MisterPhilip/maintenance-mode</li>
     <li>UMBRACO jeromegpokemon zxcv , https://www.s1.umbraco.io/home/login/?ReturnUrl=%2fprojects</li>
     <li>Firebase FULL JS API ~ https://firebase.google.com/docs/reference/js/firebase</li>
+    <li>majic towel ~ https://www.youtube.com/watch?v=QDwgSChs6e8</li>
   </ol>
  </details>
  
