@@ -154,9 +154,9 @@ https://codepen.io/createjs/pen/YdKVXP
  </details>
 
 
-<details><summary></summary>
+<details><summary>June</summary>
 <ol>
-<li>https://codesandbox.io/s/github/algolia/doc-code-samples/tree/master/InstantSearch.js/getting-started</li>
+<li>Alogolia + InstantSearch https://codesandbox.io/s/github/algolia/doc-code-samples/tree/master/InstantSearch.js/getting-started</li>
 </ol>
 </details>
  
