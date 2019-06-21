@@ -152,6 +152,13 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>majic towel ~ https://www.youtube.com/watch?v=QDwgSChs6e8</li>
   </ol>
  </details>
+
+
+<details><summary></summary>
+<ol>
+<li>https://codesandbox.io/s/github/algolia/doc-code-samples/tree/master/InstantSearch.js/getting-started</li>
+</ol>
+</details>
  
  
  <details><summary>Template</summary>
