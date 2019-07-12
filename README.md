@@ -164,6 +164,7 @@ https://codepen.io/createjs/pen/YdKVXP
  <details><summary>July</summary>
   <ol>
    <li>Zend ~ https://github.com/dyninc/dyn-php/issues/11</li>
+    <li>NodeJS Comprehend ~ https://nodejs.dev/how-to-exit-from-a-nodejs-program</li>
   </ol>
  </details>
  
