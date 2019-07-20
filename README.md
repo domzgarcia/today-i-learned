@@ -165,6 +165,7 @@ https://codepen.io/createjs/pen/YdKVXP
   <ol>
    <li>Zend ~ https://github.com/dyninc/dyn-php/issues/11</li>
     <li>NodeJS Comprehend ~ https://nodejs.dev/how-to-exit-from-a-nodejs-program</li>
+    <li>LaravelSD ~ http://www.laravelsd.com/browse</li>
   </ol>
  </details>
  
