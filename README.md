@@ -168,6 +168,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>LaravelSD ~ http://www.laravelsd.com/browse</li>
     <li>All about sorting ~ https://www.facebook.com/TEDEducation/videos/1369636223049580/</li>
     <li>Video Responsive ~ https://dollarshaveclub.github.io/reframe.js/</li>
+    <li>JSON-Stringify better approach ~ https://www.npmjs.com/package/json-s</li>
   </ol>
  </details>
  
