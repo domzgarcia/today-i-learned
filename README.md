@@ -169,6 +169,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>All about sorting ~ https://www.facebook.com/TEDEducation/videos/1369636223049580/</li>
     <li>Video Responsive ~ https://dollarshaveclub.github.io/reframe.js/</li>
     <li>JSON-Stringify better approach ~ https://www.npmjs.com/package/json-s</li>
+    <li>Nightwatch ~ https://nightwatchjs.org/</li>
   </ol>
  </details>
  
