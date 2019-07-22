@@ -167,6 +167,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>NodeJS Comprehend ~ https://nodejs.dev/how-to-exit-from-a-nodejs-program</li>
     <li>LaravelSD ~ http://www.laravelsd.com/browse</li>
     <li>All about sorting ~ https://www.facebook.com/TEDEducation/videos/1369636223049580/</li>
+    <li>Video Responsive ~ https://dollarshaveclub.github.io/reframe.js/</li>
   </ol>
  </details>
  
