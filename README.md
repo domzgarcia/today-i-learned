@@ -170,6 +170,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Video Responsive ~ https://dollarshaveclub.github.io/reframe.js/</li>
     <li>JSON-Stringify better approach ~ https://www.npmjs.com/package/json-s</li>
     <li>Nightwatch ~ https://nightwatchjs.org/</li>
+    <li>Cool Guy ~ https://github.com/sindresorhus</li>
   </ol>
  </details>
  
