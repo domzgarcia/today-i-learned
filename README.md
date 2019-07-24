@@ -171,6 +171,8 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>JSON-Stringify better approach ~ https://www.npmjs.com/package/json-s</li>
     <li>Nightwatch ~ https://nightwatchjs.org/</li>
     <li>Cool Guy ~ https://github.com/sindresorhus</li>
+    <li>CO ~ https://www.npmjs.com/package/co<li>
+    <li>Pinoy Youtuber ~ https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A</li>
   </ol>
  </details>
  
