@@ -173,6 +173,16 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Cool Guy ~ https://github.com/sindresorhus</li>
     <li>CO ~ https://www.npmjs.com/package/co<li>
     <li>Pinoy Youtuber ~ https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A</li>
+    <li>TS1 ~ https://basarat.gitbooks.io/typescript/content/docs/quick/browser.html</li>
+    <li>TS2 ~ https://www.freecodecamp.org/news/demystifying-reacts-server-side-render-de335d408fe4/</li>
+    <li>TS3 ~ https://github.com/alexnm/react-ssr/blob/master/src/components/Layout.js</li>
+    <li>TS4 ~ https://facebook.github.io/create-react-app/docs/adding-typescript</li>
+    <li>SYS ~ https://www.sitepoint.com/modular-javascript-systemjs-jspm/</li>
+    <li>TS5 ~ https://medium.com/collaborne-engineering/typescript-create-library-for-nodejs-and-browser-fece291d517f</li>
+    
+    <li>XXX</li>
+    <li>XXX</li>
+    <li>XXX</li>
   </ol>
  </details>
  
