@@ -194,6 +194,7 @@ https://codepen.io/createjs/pen/YdKVXP
 <li>CI ~ https://github.com/tianrosandhy/php-simple-inventory</li>
     <li>Dev from davao ~ https://github.com/rougin/slytherin</li>
     <li>corcel ~ https://github.com/corcel/corcel</li>
+    <li>react helmet ~ https://github.com/nfl/react-helmet/issues</li>
   </ol>
  </details>
  
