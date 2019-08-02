@@ -190,6 +190,7 @@ https://codepen.io/createjs/pen/YdKVXP
  
   <details><summary>August</summary>
   <ol>
+    
    <li>Rougin Portfolio ~ https://github.com/rougin</li>
 <li>CI ~ https://github.com/tianrosandhy/php-simple-inventory</li>
     <li>Dev from davao ~ https://github.com/rougin/slytherin</li>
