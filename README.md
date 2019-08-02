@@ -197,6 +197,12 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>corcel ~ https://github.com/corcel/corcel</li>
     <li>react helmet ~ https://github.com/nfl/react-helmet/issues</li>
     <li>13k JS ~ https://js13kgames.github.io/resources/</li>
+    <li>laravel-cloud ~ https://github.com/taylorotwell/laravel-cloud</li>
+    <li>prestashop ~ https://www.prestashop.com/en</li>
+    <li>PHP-From-Scratch ~ https://github.com/napoleon101392/PHP-From-Scratch </li>
+    <li>xxx</li>
+    
+    
   </ol>
  </details>
  
