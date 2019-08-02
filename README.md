@@ -183,6 +183,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>https://libraries.io/</li>
     <li>RubaXa https://github.com/RubaXa/wormhole</li>
     <li>CRON PHP ~ https://github.com/dragonmantank/cron-expression</li>
+    <li>Laravel Queue, Scheduling, Command</li>
   </ol>
  </details>
  
