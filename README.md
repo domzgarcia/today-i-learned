@@ -201,7 +201,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>prestashop ~ https://www.prestashop.com/en</li>
     <li>PHP-From-Scratch ~ https://github.com/napoleon101392/PHP-From-Scratch </li>
     <li>https://github.com/dherault/serverless-offline/tree/master/src</li>
-    <li>xxx</li>
+    <li>sqlite3 ~ https://www.youtube.com/watch?v=QjICgmk31js</li>
     <li>xxx</li>
     <li>xxx</li>
     <li>xxx</li>
