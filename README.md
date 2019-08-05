@@ -204,7 +204,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>sqlite3 ~ https://www.youtube.com/watch?v=QjICgmk31js</li>
     <li>sqlite3 Viewer ~ https://inloop.github.io/sqlite-viewer/</li>
     <li>knpuniversity~ https://github.com/knpuniversity</li>
-    <li>xxx</li>
+    <li>mongodb lookup ~ https://stackoverflow.com/questions/35813854/how-to-join-multiple-collections-with-lookup-in-mongodb</li>
     <li>xxx</li>
     
     
