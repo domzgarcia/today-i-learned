@@ -207,7 +207,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>mongodb lookup ~ https://stackoverflow.com/questions/35813854/how-to-join-multiple-collections-with-lookup-in-mongodb</li>
     <li>https://inloop.github.io/sqlite-viewer/</li>
     <li>https://builderbook.org/</li>
-    <li>xxx</li>
+    <li>jsondb ~ https://github.com/typicode/lowdb</li>
     <li>xxx</li>
     <li>xxx</li>
     <li>xxx</li>
