@@ -212,7 +212,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>markdown ~ https://daringfireball.net/projects/markdown/syntax#p</li>
     <li>fractal ~ https://fractal.thephpleague.com/</li>
     <li> nicolaswidart  https://nicolaswidart.com/assets/media/nicolas-widart-cv-en.pdf</li>
-    <li>xxx</li>
+    <li>server ~ http://www.inanzzz.com/index.php/post/lsto/using-x-509-client-certificate-authentication-with-php-fpm-and-nginx</li>
     <li>xxx</li>
     <li>xxx</li>
     <li>xxx</li>
