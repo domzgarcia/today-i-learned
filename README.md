@@ -217,7 +217,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Should not be overuse because it creates itsel where it flush all data held during the process within the class.</li>
     <li>React VideoJS ~ https://video-react.js.org/components/captioned-video</li>
     <li>ERP online ~ https://github.com/frozen-particles/frontaccounting</li>
-    <li>xxx</li>
+    <li>MLM php vanilla ~ https://www.youtube.com/watch?v=speqRzqhL9A&list=PLnq9yHs8s_hm6LEwIJ4qlV53U6Fo--YZh&index=32</li>
     <li>xxx</li>
     
     
