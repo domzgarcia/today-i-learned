@@ -216,7 +216,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>new static in PHP ~ https://www.php.net/manual/en/language.oop5.late-static-bindings.php</li>
     <li>Should not be overuse because it creates itsel where it flush all data held during the process within the class.</li>
     <li>React VideoJS ~ https://video-react.js.org/components/captioned-video</li>
-    <li>xxx</li>
+    <li>ERP online ~ https://github.com/frozen-particles/frontaccounting</li>
     <li>xxx</li>
     <li>xxx</li>
     
