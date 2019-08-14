@@ -213,9 +213,12 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>fractal ~ https://fractal.thephpleague.com/</li>
     <li> nicolaswidart  https://nicolaswidart.com/assets/media/nicolas-widart-cv-en.pdf</li>
     <li>server ~ http://www.inanzzz.com/index.php/post/lsto/using-x-509-client-certificate-authentication-with-php-fpm-and-nginx</li>
+    <li>new static in PHP ~ https://www.php.net/manual/en/language.oop5.late-static-bindings.php</li>
+    <li>Should not be overuse because it creates itsel where it flush all data held during the process within the class.</li>
     <li>xxx</li>
-    <li>xxx</li>
-    <li>xxx</li>
+        <li>xxx</li>
+            <li>xxx</li>
+                <li>xxx</li>
     
     
     
