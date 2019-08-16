@@ -218,6 +218,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>React VideoJS ~ https://video-react.js.org/components/captioned-video</li>
     <li>ERP online ~ https://github.com/frozen-particles/frontaccounting</li>
     <li>MLM php vanilla ~ https://www.youtube.com/watch?v=speqRzqhL9A&list=PLnq9yHs8s_hm6LEwIJ4qlV53U6Fo--YZh&index=32</li>
+    <li>Flash message ~ https://github.com/laracasts/flash</li>
     <li>xxx</li>
     
     
