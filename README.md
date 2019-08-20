@@ -220,11 +220,8 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>MLM php vanilla ~ https://www.youtube.com/watch?v=speqRzqhL9A&list=PLnq9yHs8s_hm6LEwIJ4qlV53U6Fo--YZh&index=32</li>
     <li>Flash message ~ https://github.com/laracasts/flash</li>
     <li>Laravel Cache ~ https://medium.com/simplex-internet-blog/understanding-the-usage-of-cache-in-laravel-f6cf30f4a9b5</li>
+    li>TDD Angular2 ~ https://www.youtube.com/watch?v=k9LWSh2xxjM</li>
     li>xxx</li>
-    li>xxx</li>
-    
-    
-    
     
     
     
