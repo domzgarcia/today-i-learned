@@ -223,6 +223,7 @@ https://codepen.io/createjs/pen/YdKVXP
     li>TDD Angular2 ~ https://www.youtube.com/watch?v=k9LWSh2xxjM</li>
     li>TDD Theory ~ https://school.hirez.io/courses/take/angular-basics/lessons/4072765-episode-8-directives-ngfor-8-43</li>
     li>Color Picker ~ https://github.com/Simonwep/pickr</li>
+    
     li>XXXX</li>
     li>XXXX</li>
     li>XXXX</li>
