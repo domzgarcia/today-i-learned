@@ -222,6 +222,11 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Laravel Cache ~ https://medium.com/simplex-internet-blog/understanding-the-usage-of-cache-in-laravel-f6cf30f4a9b5</li>
     li>TDD Angular2 ~ https://www.youtube.com/watch?v=k9LWSh2xxjM</li>
     li>TDD Theory ~ https://school.hirez.io/courses/take/angular-basics/lessons/4072765-episode-8-directives-ngfor-8-43</li>
+    li>Color Picker ~ https://github.com/Simonwep/pickr</li>
+    li>XXXX</li>
+    li>XXXX</li>
+    li>XXXX</li>
+    li>XXXX</li>
     
     
     
