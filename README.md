@@ -224,8 +224,8 @@ https://codepen.io/createjs/pen/YdKVXP
     li>TDD Theory ~ https://school.hirez.io/courses/take/angular-basics/lessons/4072765-episode-8-directives-ngfor-8-43</li>
     li>Color Picker ~ https://github.com/Simonwep/pickr</li>
     <li>thinkmill ~ https://thinkmill.com.au/contact</li>
+    <li>create npm ~ https://www.youtube.com/watch?v=VtRL_bIS3dM</li>
     
-    <li>XXXX</li>
     <li>XXXX</li>
     <li>XXXX</li>
     
