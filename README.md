@@ -245,11 +245,17 @@ https://codepen.io/createjs/pen/YdKVXP
  </details>
  
  
+ <details><summary>Internet Hack</summary>
+  <ol>
+   <li>COMBO ~ http://pinoytechsaga.blogspot.com/2017/03/cheap-globe-combo-promo-tricks-sorted-according-to-your-needs.html</li>
+  </ol>
+ </details>
  
  <details><summary>Template</summary>
   <ol>
    <li>Sample Topic</li>
   </ol>
  </details>
-
-
+ 
+ 
+ 
