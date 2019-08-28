@@ -247,7 +247,8 @@ https://codepen.io/createjs/pen/YdKVXP
  
  <details><summary>Internet Hack</summary>
   <ol>
-   <li>COMBO ~ http://pinoytechsaga.blogspot.com/2017/03/cheap-globe-combo-promo-tricks-sorted-according-to-your-needs.html</li>
+    <li>COMBO 1 ~ http://pinoytechsaga.blogspot.com/2017/03/30-day-or-7-day-cheap-globe-combo-promo-tricks-gosakto-text-call-and-surf.html </li>
+   <li>COMBO2 ~ http://pinoytechsaga.blogspot.com/2017/03/cheap-globe-combo-promo-tricks-sorted-according-to-your-needs.html</li>
   </ol>
  </details>
  
