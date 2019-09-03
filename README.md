@@ -238,11 +238,10 @@ https://codepen.io/createjs/pen/YdKVXP
  <details><summary>September</summary>
   <ol>
    <li>segment ~ https://segment.com/</li>
-    
-   <li>xxx</li>
-   <li>xxx</li>
-   <li>xxx</li>
-   <li>xxx</li>
+   <li>LookupTo1 ~ https://roland.codes/</li>
+   <li>Dan ~ https://youtu.be/xsSnOQynTHs</li>
+   <li>mattshwery ~ https://www.mattshwery.com/REST </li>
+   <li>voidcanvas ~ http://voidcanvas.com/import-vs-require/</li>
    <li>xxx</li>   
   </ol>
  </details>
@@ -258,9 +257,6 @@ https://codepen.io/createjs/pen/YdKVXP
  <details><summary>Template</summary>
   <ol>
    <li>Sample Topic</li>
-    
-    
-    https://segment.com/
   </ol>
  </details>
  
