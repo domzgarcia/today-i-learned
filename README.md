@@ -231,20 +231,19 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Elemental React UI http://elemental-ui.com/</li>
     <li>Connection ~ https://www.listennotes.com</li>
     <li>swimlanes ~ https://swimlanes.io/</li>
-    <li> getcraft ~ https://getcraft.com/marketplace/search?type=strategic&sn=technology</li>
+    <li> getcraft ~ https://getcraft.com/marketplace/search?type=strategic&sn=technology</li>   
+  </ol>
+ </details>
+ 
+ <details><summary>September</summary>
+  <ol>
+   <li>segment ~ https://segment.com/</li>
     
-    <li>XXXX</li>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   <li>xxx</li>
+   <li>xxx</li>
+   <li>xxx</li>
+   <li>xxx</li>
+   <li>xxx</li>   
   </ol>
  </details>
  
@@ -259,6 +258,9 @@ https://codepen.io/createjs/pen/YdKVXP
  <details><summary>Template</summary>
   <ol>
    <li>Sample Topic</li>
+    
+    
+    https://segment.com/
   </ol>
  </details>
  
