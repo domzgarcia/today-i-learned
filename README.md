@@ -247,7 +247,7 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>https://github.com/trevorlinton/webkit.js</li>
    <li>https://parceljs.org/</li>
    <li>LINUX | https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners</li>
-   <li>xxx</li>
+   <li>DESIGN PATTERN | https://www.youtube.com/watch?v=lOvFFFnhtnw&list=PLpybJy551jDHbvG4N0Iva6h1VKB_GPhun&index=3</li>
    <li>xxx</li>
    <li>xxx</li>
     
