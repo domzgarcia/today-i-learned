@@ -243,6 +243,11 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>mattshwery ~ https://www.mattshwery.com/REST </li>
    <li>voidcanvas ~ http://voidcanvas.com/import-vs-require/</li>
    <li>es2018 ~ https://medium.com/@bramus/javascript-whats-new-in-ecmascript-2018-es2018-17ede97f36d5</li>
+   <li>https://gl-transitions.com/</li>
+   <li>https://github.com/trevorlinton/webkit.js</li>
+   <li>xxx</li>
+   <li>xxx</li>
+   <li>xxx</li>
    <li>xxx</li>
    <li>xxx</li>
     
