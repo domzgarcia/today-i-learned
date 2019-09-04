@@ -246,7 +246,7 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>https://gl-transitions.com/</li>
    <li>https://github.com/trevorlinton/webkit.js</li>
    <li>https://parceljs.org/</li>
-   <li>xxx</li>
+   <li>LINUX | https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners</li>
    <li>xxx</li>
    <li>xxx</li>
    <li>xxx</li>
