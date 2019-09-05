@@ -259,7 +259,7 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>OPENSOURCE Theory | https://github.com/nayafia?tab=repositories</li>
    <li>NODEGUI | https://nodegui.github.io/nodegui/#/</li>
    <li>neutrinojs| https://neutrinojs.org/packages/react/</li>
-   <li>xxx</li>
+   <li>async | https://btholt.github.io/complete-intro-to-react/webpack-code-splitting-and-async-routing/</li>
     
     
     
