@@ -251,6 +251,16 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>wordpress | https://www.youtube.com/watch?v=2XWJ8VBjXXU&t=12s</li>
    <li>TAP | http://blakeembrey.com/articles/2014/01/javascript-tap-function/</li>
    <li>NODECLI | https://www.npmjs.com/package/yargs </li>
+   <li>LARAVEL IGNITION | https://github.com/stefanbauer/ignition-laracasts-tab</li>
+   <li>SPIRAL FRAMEWORK | https://github.com/spiral/framework</li>
+   <li>GRAPHQL STYLEGUIDE | https://github.com/Thinkmill/graphql</li>
+   <li>GUARD | https://github.com/rennokki/guardian</li>
+   <li>CLI | https://katacoda.com/courses/container-runtimes/what-is-a-container</li>
+   <li>OPENSOURCE Theory | https://github.com/nayafia?tab=repositories</li>
+   <li>NODEGUI | https://nodegui.github.io/nodegui/#/</li>
+   <li>xxx</li>
+   <li>xxx</li>
+    
     
     
    <li>xxx</li>   
