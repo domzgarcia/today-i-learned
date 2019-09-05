@@ -249,7 +249,7 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>LINUX | https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners</li>
    <li>DESIGN PATTERN | https://www.youtube.com/watch?v=lOvFFFnhtnw&list=PLpybJy551jDHbvG4N0Iva6h1VKB_GPhun&index=3</li>
    <li>wordpress | https://www.youtube.com/watch?v=2XWJ8VBjXXU&t=12s</li>
-   <li>xxx</li>
+   <li>TAP | http://blakeembrey.com/articles/2014/01/javascript-tap-function/</li>
     
     
     
