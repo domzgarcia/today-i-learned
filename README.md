@@ -261,6 +261,7 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>neutrinojs| https://neutrinojs.org/packages/react/</li>
    <li>async | https://btholt.github.io/complete-intro-to-react/webpack-code-splitting-and-async-routing/</li>
     <li>codeSplit | https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/</li>  
+   <li>codeSplit | https://github.com/faceyspacey/webpack-flush-chunks/#boilerplates</li> 
     
     
    <li>xxx</li>   
