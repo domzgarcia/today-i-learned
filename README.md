@@ -263,6 +263,11 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>codeSplit | https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/</li>  
    <li>codeSplit | https://github.com/faceyspacey/webpack-flush-chunks/#boilerplates</li> 
    <li>codeSplit | https://www.youtube.com/watch?v=nzacELaUs0g&list=PLMEIN_H8vMqPBgFfKNHtGxNMBh-8FHJIg&index=10</li>
+  <li>MODERNJS | https://github.com/kentcdodds/modern-javascript</li>   
+  <li>xxx</li>   
+  <li>xxx</li>   
+  <li>xxx</li>   
+    
     
    <li>xxx</li>   
   </ol>
