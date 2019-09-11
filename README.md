@@ -264,7 +264,7 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>codeSplit | https://github.com/faceyspacey/webpack-flush-chunks/#boilerplates</li> 
    <li>codeSplit | https://www.youtube.com/watch?v=nzacELaUs0g&list=PLMEIN_H8vMqPBgFfKNHtGxNMBh-8FHJIg&index=10</li>
   <li>MODERNJS | https://github.com/kentcdodds/modern-javascript</li>   
-  <li>xxx</li>   
+  <li>GOOGLE | https://google.github.io/eng-practices/review/reviewer/?fbclid=IwAR3AUO7hVBK4JQxjPW_bHqMaEYMUOwOZFG0_KCXPI7SdUalvZeKuIm3XoDM</li>   
   <li>xxx</li>   
   <li>xxx</li>   
     
