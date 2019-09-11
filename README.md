@@ -265,7 +265,7 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>codeSplit | https://www.youtube.com/watch?v=nzacELaUs0g&list=PLMEIN_H8vMqPBgFfKNHtGxNMBh-8FHJIg&index=10</li>
   <li>MODERNJS | https://github.com/kentcdodds/modern-javascript</li>   
   <li>GOOGLE | https://google.github.io/eng-practices/review/reviewer/?fbclid=IwAR3AUO7hVBK4JQxjPW_bHqMaEYMUOwOZFG0_KCXPI7SdUalvZeKuIm3XoDM</li>   
-  <li>xxx</li>   
+  <li>https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103</li>   
   <li>xxx</li>   
     
     
