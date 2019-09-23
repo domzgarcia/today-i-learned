@@ -270,7 +270,7 @@ https://codepen.io/createjs/pen/YdKVXP
   <li>ODM is a new data model thatintegrates the features of object oriented programming languages (e.g. Smalltalk-80) and Relational Data Model (RDM).</li>
   <li>https://github.com/marcj/css-element-queries</li>
   <li>https://www.npmjs.com/package/chrono-node</li>
-  <li>xxx</li>
+  <li>UMD, CJS, ESM  | https://www.youtube.com/watch?v=ZGa_a164aeM</li>
     
     
    <li>xxx</li>   
