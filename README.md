@@ -274,7 +274,7 @@ https://codepen.io/createjs/pen/YdKVXP
   <li>PART 1 | https://www.freecodecamp.org/news/javascript-modules-a-beginner-s-guide-783f7d7a5fcc/</li>
   <li>PART 2 | https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/ </li>
   <li>react-css-spinners | https://github.com/alex996/react-css-spinners</li>
-  <li>xxx</li>
+  <li>Modern JS | https://www.youtube.com/watch?v=nLwqM034Jjs&list=PLcCp4mjO-z99IPNCrhEyrZimdUG5QXjPd&index=1</li>
     
     
    <li>xxx</li>   
