@@ -276,11 +276,12 @@ https://codepen.io/createjs/pen/YdKVXP
   <li>react-css-spinners | https://github.com/alex996/react-css-spinners</li>
   <li>Modern JS | https://www.youtube.com/watch?v=nLwqM034Jjs&list=PLcCp4mjO-z99IPNCrhEyrZimdUG5QXjPd&index=1</li>
  <li>https://github.com/rexxars/react-markdown/blob/master/demo/src/demo.js</li>   
-    
-  <li>xxx</li>   
+    <li>https://github.com/krzys1u/include-file-webpack-plugin/blob/master/index.js</li>   
+  
     
     
    <li>xxx</li>   
+    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>   
   </ol>
  </details>
  
