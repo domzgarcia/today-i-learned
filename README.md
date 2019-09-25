@@ -275,12 +275,13 @@ https://codepen.io/createjs/pen/YdKVXP
   <li>PART 2 | https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/ </li>
   <li>react-css-spinners | https://github.com/alex996/react-css-spinners</li>
   <li>Modern JS | https://www.youtube.com/watch?v=nLwqM034Jjs&list=PLcCp4mjO-z99IPNCrhEyrZimdUG5QXjPd&index=1</li>
- <li>https://github.com/rexxars/react-markdown/blob/master/demo/src/demo.js</li>   
-    <li>https://github.com/krzys1u/include-file-webpack-plugin/blob/master/index.js</li>   
-  
+  <li>https://github.com/rexxars/react-markdown/blob/master/demo/src/demo.js</li>   
+  <li>https://github.com/krzys1u/include-file-webpack-plugin/blob/master/index.js</li>   
+  <li>https://www.computerhope.com/unix/rsync.htm</li>   
+   
     
     
-   <li>xxx</li>   
+   <li>https://www.computerhope.com/unix/rsync.htm</li>   
     <li>xxx</li>    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>   
   </ol>
  </details>
