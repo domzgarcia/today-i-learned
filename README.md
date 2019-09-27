@@ -278,11 +278,11 @@ https://codepen.io/createjs/pen/YdKVXP
   <li>https://github.com/rexxars/react-markdown/blob/master/demo/src/demo.js</li>   
   <li>https://github.com/krzys1u/include-file-webpack-plugin/blob/master/index.js</li>   
   <li>https://www.computerhope.com/unix/rsync.htm</li>   
+  <li>Publish Your Own npm Module: Creating a Local Module (1 of 2)</li>
+  <li>https://www.computerhope.com/unix/rsync.htm</li>    
+    
    
-    
-    
-   <li>https://www.computerhope.com/unix/rsync.htm</li>   
-    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>   
+        <li>xxx</li>    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>   
   </ol>
  </details>
  
