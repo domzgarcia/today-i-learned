@@ -280,9 +280,19 @@ https://codepen.io/createjs/pen/YdKVXP
   <li>https://www.computerhope.com/unix/rsync.htm</li>   
   <li>Publish Your Own npm Module: Creating a Local Module (1 of 2) | https://www.youtube.com/watch?v=N55jHr9qzpg&t=491s</li>
   <li>https://www.computerhope.com/unix/rsync.htm</li>    
-    
-   
-        <li>xxx</li>    <li>xxx</li>    <li>xxx</li>    <li>xxx</li>   
+  </ol>
+ </details>
+ 
+ 
+ <details><summary>October</summary>
+  <ol>
+    <li>http://works.yalantis.com/autoportal/14/</li>
+    <li>https://auto.ndtv.com/news/types-of-cars-1450327</li>
+    <li>xxxx</li>
+    <li>xxxx</li>
+    <li>xxxx</li>
+    <li>xxxx</li>
+    <li>xxxx</li>
   </ol>
  </details>
  
