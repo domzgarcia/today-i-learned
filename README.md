@@ -290,9 +290,9 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>https://auto.ndtv.com/news/types-of-cars-1450327</li>
     <li>CONTROL/UNCONTROL ~ https://www.youtube.com/watch?v=nSGZEQa5C_c</li>
     <li>https://laracasts.com/series/laravel-from-scratch-2017</li>
-    <li>xxxx</li>
-    <li>xxxx</li>
-    <li>xxxx</li>
+    <li>https://laracasts.com/series/laravel-5-fundamentals</li>
+    <li>https://laracasts.com/series/laravel-6-from-scratch</li>
+    <li>https://laracasts.com/series/whats-new-in-laravel-6</li>
   </ol>
  </details>
  
@@ -318,4 +318,9 @@ https://yalantis.com/services/
  Temp
  ---
  - [x] https://github.com/Yalantis/ReactNativeTemplate
+ 
+ 
+ To download
+ ---
+ https://laracasts.com/series/mysql-database-design
  
