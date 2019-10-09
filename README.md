@@ -322,5 +322,7 @@ https://yalantis.com/services/
  
  To download
  ---
- https://laracasts.com/series/mysql-database-design
+ - https://laracasts.com/series/mysql-database-design
+ - https://laracasts.com/series/build-a-laravel-app-with-tdd
+ 
  
