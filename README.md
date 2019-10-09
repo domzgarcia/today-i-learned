@@ -289,7 +289,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>http://works.yalantis.com/autoportal/14/</li>
     <li>https://auto.ndtv.com/news/types-of-cars-1450327</li>
     <li>CONTROL/UNCONTROL ~ https://www.youtube.com/watch?v=nSGZEQa5C_c</li>
-    <li>xxxx</li>
+    <li>https://laracasts.com/series/laravel-from-scratch-2017</li>
     <li>xxxx</li>
     <li>xxxx</li>
     <li>xxxx</li>
