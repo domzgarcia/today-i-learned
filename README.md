@@ -324,5 +324,9 @@ https://yalantis.com/services/
  ---
  - https://laracasts.com/series/mysql-database-design
  - https://laracasts.com/series/build-a-laravel-app-with-tdd
- 
+ - https://laracasts.com/series/object-oriented-bootcamp-in-php
+ - https://laracasts.com/series/webpack-for-everyone
+ - https://laracasts.com/series/visual-studio-code-for-php-developers
+ - https://laracasts.com/series/hands-on-community-contributions
+ - https://laracasts.com/series/lets-build-a-forum-with-laravel
  
