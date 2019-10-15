@@ -330,3 +330,8 @@ https://yalantis.com/services/
  - https://laracasts.com/series/hands-on-community-contributions
  - https://laracasts.com/series/lets-build-a-forum-with-laravel
  
+ Testing
+ ---
+ - UI e2e | https://www.npmjs.com/package/@testing-library/react
+ - FUNTIONALITY | https://jestjs.io/
+ 
