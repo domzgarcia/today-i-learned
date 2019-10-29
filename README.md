@@ -294,6 +294,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>https://laracasts.com/series/laravel-6-from-scratch</li>
     <li>https://laracasts.com/series/whats-new-in-laravel-6</li>
     <li>https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74</li>
+    <li>https://github.com/goldbergyoni/nodebestpractices#1-project-structure-practices</li>
   </ol>
  </details>
  
