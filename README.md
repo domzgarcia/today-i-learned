@@ -296,6 +296,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74</li>
     <li>https://github.com/goldbergyoni/nodebestpractices#1-project-structure-practices</li>
     <li>https://github.com/guzzle/guzzle/blob/master/composer.json</li>
+    <li>https://colorswall.com/palette/3/</li>
   </ol>
  </details>
  
