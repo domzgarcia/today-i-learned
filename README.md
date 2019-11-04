@@ -297,6 +297,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>https://github.com/goldbergyoni/nodebestpractices#1-project-structure-practices</li>
     <li>https://github.com/guzzle/guzzle/blob/master/composer.json</li>
     <li>https://colorswall.com/palette/3/</li>
+    <li>https://www.youtube.com/watch?v=fmMg6cyww14</li>
   </ol>
  </details>
  
