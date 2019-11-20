@@ -349,3 +349,7 @@ https://yalantis.com/services/
  - UI e2e | https://www.npmjs.com/package/@testing-library/react
  - FUNTIONALITY | https://jestjs.io/
  
+ Magento
+ ----
+ https://docs.magento.com/m2/ce/user_guide/stores/admin.html
+ 
