@@ -304,6 +304,7 @@ https://codepen.io/createjs/pen/YdKVXP
  <details><summary>November</summary>
   <ol>
    <li>Magento | https://www.rakeshjesadiya.com/magento-2-get-all-module-list-programmatically/</li>
+    <li>Magento Clean | https://magento.stackexchange.com/questions/212514/refused-to-apply-style-because-its-mime-type-text-html-is-not-a-supported-s</li>
   </ol>
  </details>
  
