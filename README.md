@@ -301,6 +301,14 @@ https://codepen.io/createjs/pen/YdKVXP
   </ol>
  </details>
  
+ <details><summary>November</summary>
+  <ol>
+   <li>Magento | https://www.rakeshjesadiya.com/magento-2-get-all-module-list-programmatically/</li>
+  </ol>
+ </details>
+ 
+ 
+ 
  
  <details><summary>Internet Hack</summary>
   <ol>
