@@ -306,6 +306,7 @@ https://codepen.io/createjs/pen/YdKVXP
    <li>Magento | https://www.rakeshjesadiya.com/magento-2-get-all-module-list-programmatically/</li>
     <li>Magento Clean | https://magento.stackexchange.com/questions/212514/refused-to-apply-style-because-its-mime-type-text-html-is-not-a-supported-s</li>
     <li>Laragon adding mongodb DLL | https://pecl.php.net/package/mongodb/1.5.2/windows | https://forum.laragon.org/topic/172/tutorial-how-to-install-mongodb-extension</li>
+    <li>PHP versions | https://windows.php.net/downloads/releases/</li>
   </ol>
  </details>
  
