@@ -307,6 +307,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>Magento Clean | https://magento.stackexchange.com/questions/212514/refused-to-apply-style-because-its-mime-type-text-html-is-not-a-supported-s</li>
     <li>Laragon adding mongodb DLL | https://pecl.php.net/package/mongodb/1.5.2/windows | https://forum.laragon.org/topic/172/tutorial-how-to-install-mongodb-extension</li>
     <li>PHP versions | https://windows.php.net/downloads/releases/</li>
+    <li> Modal Change Page Content | https://medium.com/@michaelchan_13570/using-react-router-v4-prompt-with-custom-modal-component-ca839f5faf39</li>
   </ol>
  </details>
  
