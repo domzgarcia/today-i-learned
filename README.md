@@ -309,6 +309,7 @@ https://codepen.io/createjs/pen/YdKVXP
     <li>PHP versions | https://windows.php.net/downloads/releases/</li>
     <li> Modal Change Page Content | https://medium.com/@michaelchan_13570/using-react-router-v4-prompt-with-custom-modal-component-ca839f5faf39</li>
     <li>Laravel Testing | https://laravel-news.com/testing-partial-json</li>
+    <li>https://wisdmlabs.com/blog/laravel-soft-delete-unique-validations/?fbclid=IwAR08rTBdvVeNvJ51nA-APYAHje7YxdsaggeYVRhZqpLQjlERBxIq-9KX8hg</li>
   </ol>
  </details>
  
