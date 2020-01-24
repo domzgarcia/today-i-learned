@@ -343,6 +343,12 @@ https://yalantis.com/services/
  ---
  - https://laracasts.com/series/mysql-database-design
  - https://laracasts.com/series/build-a-laravel-app-with-tdd
+
+
+2020
+- https://laracasts.com/series/guest-spotlight/episodes/3
+- https://stitcher.io/blog/laravel-beyond-crud-08-view-models?fbclid=IwAR3bVlKuxBFd735NZFsDs5X-mwx7yn85o7bxZ3Ugh8A6dVFUz1SyTMPMr8E
+- 
  - https://laracasts.com/series/object-oriented-bootcamp-in-php
  - https://laracasts.com/series/webpack-for-everyone
  - https://laracasts.com/series/visual-studio-code-for-php-developers
