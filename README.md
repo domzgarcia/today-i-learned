@@ -374,4 +374,5 @@ https://npm.runkit.com/moment
 
 ### 2020
 ---
-- Sept: https://github.com/winstonjs/winston
+- Sept 24: https://github.com/winstonjs/winston
+- Sept 26: https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writing-manually
