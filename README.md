@@ -1,5 +1,10 @@
 #### Efficient 2019
 
+Oct 15
+48hrs
+Oct 16-up
+16hrs
+
 **TOP:**
 https://refactoring.guru/
 
